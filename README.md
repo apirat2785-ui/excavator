@@ -1,1 +1,382 @@
-# excavator
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Google On-Page SEO: Title & Description -->
+<title>พรรษสรณ์บริการ | เช่ารถแม็คโครหัวตัก-หัวเจาะ PC30-PC120 ถมที่ เจาะปูน</title>
+<meta name="description" content="พรรษสรณ์บริการ ให้เช่ารถแม็คโครหัวตักและหัวเจาะ PC30 PC40 PC75 PC120 PC135 รายวัน-รายเดือน ประเมินหน้างานฟรีทั่วประเทศ รับงานถมที่ เจาะปูน ขุดบ่อ กดเสาเข็ม รื้อถอนอาคาร ขุดวางท่อ ปรับพื้นที่ พร้อมคนขับมืออาชีพและรถบรรทุกขนย้ายวัสดุ บริการทั่วกรุงเทพฯ และทั่วประเทศ">
+<meta name="keywords" content="เช่ารถแม็คโคร, เช่ารถแบคโฮ, รถแม็คโครหัวเจาะ, PC30, PC120, ถมที่, เจาะปูน, รื้อถอนอาคาร, กดเสาเข็ม">
+<meta http-equiv="content-language" content="th">
+<link rel="canonical" href="https://apirat2785-ui.github.io/-/">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<meta name="theme-color" content="#eab308">
+
+<meta property="og:title" content="พรรษสรณ์บริการ | เช่ารถแม็คโครหัวตัก-หัวเจาะ PC30-PC120">
+<meta property="og:description" content="ให้เช่ารถแม็คโครหัวตักและหัวเจาะ PC30-PC135 รายวัน-รายเดือน ถมที่ เจาะปูน รื้อถอนอาคาร ประเมินหน้างานฟรีทั่วประเทศ">
+<meta property="og:type" content="business.business">
+<meta property="og:url" content="https://apirat2785-ui.github.io/-/">
+<meta property="og:locale" content="th_TH">
+<meta property="og:image" content="https://apirat2785-ui.github.io/-/images/og-cover.jpg">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="พรรษสรณ์บริการ | เช่ารถแม็คโครหัวตัก-หัวเจาะ PC30-PC120">
+<meta name="twitter:description" content="ให้เช่ารถแม็คโครหัวตักและหัวเจาะ PC30-PC135 รายวัน-รายเดือน ประเมินหน้างานฟรีทั่วประเทศ">
+<meta name="twitter:image" content="https://apirat2785-ui.github.io/-/images/og-cover.jpg">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "พรรษสรณ์บริการ เช่ารถแม็คโครหัวตักและหัวเจาะ",
+  "url": "https://apirat2785-ui.github.io/-/",
+  "telephone": "+66-92-993-2697",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "59/40 แขวงบางไผ่",
+    "addressLocality": "บางแค",
+    "addressRegion": "กรุงเทพมหานคร",
+    "postalCode": "10160",
+    "addressCountry": "TH"
+  },
+  "priceRange": "฿฿",
+  "openingHours": "Mo-Su 00:00-23:59"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "พรรษสรณ์บริการ",
+  "url": "https://apirat2785-ui.github.io/-/"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "เช่ารถแม็คโครพรรษสรณ์บริการ ต้องใช้เวลานานแค่ไหนก่อนรถจะถึงหน้างาน?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ทีมงานจะลงพื้นที่ประเมินหน้างานฟรีก่อนเริ่มงานทุกครั้ง เพื่อเลือกรุ่นรถและหัวอุปกรณ์ที่เหมาะสม ระยะเวลานัดหมายขึ้นอยู่กับพื้นที่และคิวงาน แนะนำติดต่อล่วงหน้าผ่านโทรศัพท์หรือไลน์เพื่อจองคิว"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "รถแม็คโคร PC30 กับ PC120 ต่างกันอย่างไร เลือกรุ่นไหนดี?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "PC30 เหมาะกับพื้นที่แคบและงานขนาดเล็ก ส่วน PC120 รับน้ำหนักงานได้มากกว่า เหมาะกับงานถมที่ขนาดใหญ่ งานเจาะปูน และงานรื้อถอนอาคาร"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "ค่าเช่ารถแม็คโครคิดราคาอย่างไร รวมคนขับหรือไม่?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ราคาคิดตามรุ่นรถ ลักษณะหน้างาน ระยะเวลา และระยะทาง โดยทั่วไปรวมค่าคนขับ แต่ไม่รวมค่าน้ำมัน แนะนำติดต่อทีมงานเพื่อรับใบเสนอราคาที่ชัดเจน"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "พรรษสรณ์บริการรับงานนอกพื้นที่กรุงเทพฯ หรือไม่?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "รับงานทั่วประเทศ ทั้งในเขตกรุงเทพมหานครและต่างจังหวัด โดยลงพื้นที่ประเมินหน้างานฟรีก่อนเสนอราคา"
+      }
+    }
+  ]
+}
+</script>
+
+<!-- Google Analytics (GA4) — แทนที่ G-XXXXXXXXXX ด้วย Measurement ID จริงของคุณ -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-XXXXXXXXXX');
+</script>
+
+<!-- Google Fonts: Kanit (ไทย) -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Kanit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+<!-- Tailwind CSS ผ่าน CDN ตัวเดียว โหลดไว ไม่หนักสคริปต์ -->
+<script src="https://cdn.tailwindcss.com"></script>
+
+<style>
+  body { font-family: 'Kanit', sans-serif; }
+</style>
+</head>
+<body class="bg-gray-50 text-gray-800 antialiased">
+
+<!-- ส่วนหัว (Header Navigation) -->
+<header class="bg-yellow-500 text-slate-900 shadow-md sticky top-0 z-50">
+  <div class="container mx-auto px-4 py-3 flex justify-between items-center">
+    <div class="text-xl font-bold tracking-wide">พรรษสรณ์บริการ</div>
+    <div class="flex gap-2">
+      <a href="tel:0929932697" class="bg-slate-900 hover:bg-slate-800 text-white px-3 py-1.5 rounded-full text-xs font-semibold transition duration-300 flex items-center gap-1">
+        📞 โทร: 092-993-2697
+      </a>
+      <a href="https://line.me/ti/p/~0929932697" target="_blank" rel="noopener" class="bg-[#06C755] hover:bg-[#05b34c] text-white px-3 py-1.5 rounded-full text-xs font-semibold transition duration-300 flex items-center gap-1">
+        💬 Line
+      </a>
+    </div>
+  </div>
+</header>
+
+<!-- 1. ส่วนแรก (Hero Section) -->
+<section class="bg-gradient-to-r from-yellow-400 to-yellow-600 text-slate-900 py-16 px-4 text-center shadow-inner">
+  <div class="max-w-3xl mx-auto">
+    <!-- H1 มีตัวเดียวในหน้าเว็บ มีคีย์เวิร์ดหลักครบถ้วน -->
+    <h1 class="text-3xl md:text-5xl font-bold mb-4 drop-shadow-sm">
+      พรรษสรณ์บริการ เช่ารถแม็คโครหัวตักและหัวเจาะ PC30-PC120
+    </h1>
+    <p class="text-lg md:text-xl mb-8 font-medium opacity-90">
+      บริการให้เช่ารถแม็คโครหัวตักและหัวเจาะ รายวัน-รายเดือน ถมที่ เจาะปูน ขุดบ่อ กดเสาเข็ม รื้อถอนอาคาร ประเมินหน้างานฟรีทั่วประเทศ
+    </p>
+
+    <div class="flex flex-col sm:flex-row justify-center items-center gap-4">
+      <a href="tel:0929932697" class="w-full sm:w-auto bg-slate-900 hover:bg-slate-800 text-white px-8 py-3.5 rounded-xl text-lg font-bold shadow-lg transition duration-300 text-center">
+        📞 โทรสายด่วน: 092-993-2697
+      </a>
+      <a href="https://line.me/ti/p/~0929932697" target="_blank" rel="noopener" class="w-full sm:w-auto bg-[#06C755] hover:bg-[#05b34c] text-white px-8 py-3.5 rounded-xl text-lg font-bold shadow-lg transition duration-300 text-center flex justify-center items-center gap-2">
+        <span class="text-xl">💬</span> แอดไลน์ด้วยเบอร์โทร
+      </a>
+    </div>
+    <div class="mt-6 inline-block bg-white text-yellow-700 font-bold px-4 py-1.5 rounded-full text-sm shadow-sm border border-yellow-200">
+      📋 ประเมินหน้างานฟรี ทั่วประเทศ
+    </div>
+  </div>
+</section>
+
+<!-- 2. ส่วนที่สอง: ตารางราคาเช่ารถขุด -->
+<section class="container mx-auto px-4 py-16 max-w-4xl">
+  <h2 class="text-2xl md:text-3xl font-bold text-center mb-8 border-b-4 border-yellow-500 pb-2 w-fit mx-auto">
+    🚜 อัตราค่าเช่ารถขุด / รถแบคโฮ
+  </h2>
+
+  <!-- แกลเลอรีรูปรถแม็คโคร: PC30 และ PC120 หัวตัก/หัวเจาะ -->
+  <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-10">
+    <figure class="bg-gray-200 rounded-xl overflow-hidden border border-dashed border-gray-400 relative h-56 md:h-64 flex items-center justify-center">
+      <!--
+        🔧 ใส่รูปจริงตรงนี้ (ห้ามใช้รูปจากเว็บคู่แข่งเพราะติดลิขสิทธิ์ ใช้รูปถ่ายจริงของร้าน หรือรูป AI ที่ generate เอง):
+        <img src="images/macro-pc30-bucket-drill.jpg"
+             alt="รถแม็คโคร PC30 หัวตักและหัวเจาะ ให้เช่ารายวัน-รายเดือน พรรษสรณ์บริการ"
+             class="w-full h-full object-cover" loading="lazy" width="600" height="400">
+        AI image prompt แนะนำ:
+        "Compact excavator PC30 size, mounted with both bucket attachment and hydraulic breaker hammer attachment side by side,
+        photorealistic, construction site in Thailand, daylight, wide shot"
+      -->
+      <span class="text-gray-500 p-4 text-center text-sm">
+        [ใส่รูปรถแม็คโคร PC30 ที่นี่]<br>
+        <code class="text-xs bg-gray-300 px-1 py-0.5 rounded text-red-600 font-mono block mt-2">
+          alt="รถแม็คโคร PC30 หัวตักและหัวเจาะ ให้เช่ารายวัน-รายเดือน พรรษสรณ์บริการ"
+        </code>
+      </span>
+      <figcaption class="absolute bottom-0 left-0 right-0 bg-slate-900/80 text-white text-sm font-semibold py-2">
+        PC30 — รถแม็คโครขนาดเล็ก หัวตัก/หัวเจาะ
+      </figcaption>
+    </figure>
+
+    <figure class="bg-gray-200 rounded-xl overflow-hidden border border-dashed border-gray-400 relative h-56 md:h-64 flex items-center justify-center">
+      <!--
+        🔧 ใส่รูปจริงตรงนี้ (ห้ามใช้รูปจากเว็บคู่แข่งเพราะติดลิขสิทธิ์ ใช้รูปถ่ายจริงของร้าน หรือรูป AI ที่ generate เอง):
+        <img src="images/macro-pc120-bucket-drill.jpg"
+             alt="รถแม็คโคร PC120 หัวตักและหัวเจาะ สำหรับงานถมที่ เจาะปูน พรรษสรณ์บริการ"
+             class="w-full h-full object-cover" loading="lazy" width="600" height="400">
+        AI image prompt แนะนำ:
+        "Medium-size excavator PC120 size, equipped with hydraulic breaker hammer drilling into concrete slab,
+        photorealistic, construction site in Thailand, daylight, wide shot"
+      -->
+      <span class="text-gray-500 p-4 text-center text-sm">
+        [ใส่รูปรถแม็คโคร PC120 ที่นี่]<br>
+        <code class="text-xs bg-gray-300 px-1 py-0.5 rounded text-red-600 font-mono block mt-2">
+          alt="รถแม็คโคร PC120 หัวตักและหัวเจาะ สำหรับงานถมที่ เจาะปูน พรรษสรณ์บริการ"
+        </code>
+      </span>
+      <figcaption class="absolute bottom-0 left-0 right-0 bg-slate-900/80 text-white text-sm font-semibold py-2">
+        PC120 — รถแม็คโครขนาดกลาง หัวตัก/หัวเจาะ
+      </figcaption>
+    </figure>
+  </div>
+
+  <div class="bg-white rounded-xl shadow-md overflow-hidden border border-gray-100">
+    <table class="w-full text-left border-collapse">
+      <thead>
+        <tr class="bg-slate-900 text-white">
+          <th scope="col" class="py-4 px-6 font-semibold text-sm md:text-base">ประเภทรถ / รุ่น</th>
+          <th scope="col" class="py-4 px-6 font-semibold text-right text-sm md:text-base">ราคาค่าเช่า</th>
+        </tr>
+      </thead>
+      <tbody class="divide-y divide-gray-200">
+        <tr class="hover:bg-gray-50">
+          <td class="py-4 px-6 font-medium text-sm md:text-base">รถแม็คโคร PC30 (หัวตัก/หัวเจาะ)</td>
+          <td class="py-4 px-6 text-right text-gray-500 font-semibold italic text-sm md:text-base">สอบถามราคา</td>
+        </tr>
+        <tr class="hover:bg-gray-50">
+          <td class="py-4 px-6 font-medium text-sm md:text-base">รถแม็คโคร PC40 / PC75</td>
+          <td class="py-4 px-6 text-right text-gray-500 font-semibold italic text-sm md:text-base">สอบถามราคา</td>
+        </tr>
+        <tr class="hover:bg-gray-50">
+          <td class="py-4 px-6 font-medium text-sm md:text-base">รถแม็คโคร PC120 (หัวตัก/หัวเจาะ)</td>
+          <td class="py-4 px-6 text-right text-gray-500 font-semibold italic text-sm md:text-base">สอบถามราคา</td>
+        </tr>
+        <tr class="hover:bg-gray-50">
+          <td class="py-4 px-6 font-medium text-sm md:text-base">รถแม็คโคร PC135</td>
+          <td class="py-4 px-6 text-right text-gray-500 font-semibold italic text-sm md:text-base">สอบถามราคา</td>
+        </tr>
+        <tr class="hover:bg-gray-50">
+          <td class="py-4 px-6 font-medium text-sm md:text-base">รถบรรทุกขนย้าย / รถหกล้อดั๊ม</td>
+          <td class="py-4 px-6 text-right text-gray-500 font-semibold italic text-sm md:text-base">สอบถามราคา</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <p class="text-xs text-gray-500 mt-4 text-center">
+    *ราคาค่าเช่าขึ้นอยู่กับลักษณะหน้างาน ระยะเวลา และระยะทาง ติดต่อทีมงานเพื่อรับการประเมินหน้างานฟรีและใบเสนอราคา
+  </p>
+</section>
+
+<!-- 3. ส่วนที่สาม: จุดเด่นของบริการ -->
+<section class="bg-slate-900 text-white py-16 px-4">
+  <div class="container mx-auto max-w-4xl text-center">
+    <h2 class="text-2xl md:text-3xl font-bold mb-12 text-yellow-400">ทำไมต้องเลือก พรรษสรณ์บริการ?</h2>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+      <div class="bg-slate-800 p-6 rounded-xl border border-slate-700">
+        <div class="text-4xl mb-3">📋</div>
+        <h3 class="font-bold text-lg mb-2 text-white">ประเมินหน้างานฟรี ทั่วประเทศ</h3>
+        <p class="text-slate-400 text-sm">ลงพื้นที่สำรวจและเสนอราคาฟรี ไม่มีค่าใช้จ่ายแอบแฝง รับงานทั่วประเทศ</p>
+      </div>
+      <div class="bg-slate-800 p-6 rounded-xl border border-slate-700">
+        <div class="text-4xl mb-3">🚜</div>
+        <h3 class="font-bold text-lg mb-2 text-white">หัวตักและหัวเจาะครบชุด</h3>
+        <p class="text-slate-400 text-sm">รถแม็คโคร PC30-PC135 พร้อมหัวตัก-หัวเจาะ รองรับงานเจาะปูน สกัดพื้น และขุดดิน</p>
+      </div>
+      <div class="bg-slate-800 p-6 rounded-xl border border-slate-700">
+        <div class="text-4xl mb-3">👷‍♂️</div>
+        <h3 class="font-bold text-lg mb-2 text-white">บริการครบวงจร</h3>
+        <p class="text-slate-400 text-sm">ถมที่ ขุดบ่อ กดเสาเข็ม รื้อถอนอาคาร พร้อมรถบรรทุกขนเศษวัสดุก่อสร้าง</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- 3.5 ส่วนเสริม: รายการบริการทั้งหมด -->
+<section class="container mx-auto px-4 py-14 max-w-4xl">
+  <h2 class="text-2xl md:text-3xl font-bold text-center mb-8 border-b-4 border-yellow-500 pb-2 w-fit mx-auto">
+    🔧 บริการของพรรษสรณ์บริการ
+  </h2>
+  <div class="grid grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-3 text-base">
+    <p class="flex items-start gap-2"><span class="text-yellow-600">✔</span> เช่ารถแม็คโคร หัวตัก-หัวเจาะ รายวัน/รายเดือน</p>
+    <p class="flex items-start gap-2"><span class="text-yellow-600">✔</span> งานเจาะปูน สกัดพื้นคอนกรีต</p>
+    <p class="flex items-start gap-2"><span class="text-yellow-600">✔</span> งานถมที่ ถมดิน ปรับหน้าดิน</p>
+    <p class="flex items-start gap-2"><span class="text-yellow-600">✔</span> ขุดดิน ขุดบ่อ ขุดสระ ขุดสระว่ายน้ำ</p>
+    <p class="flex items-start gap-2"><span class="text-yellow-600">✔</span> กดเสาเข็ม</p>
+    <p class="flex items-start gap-2"><span class="text-yellow-600">✔</span> ขุดวางท่อประปา งานระบบใต้ดิน</p>
+    <p class="flex items-start gap-2"><span class="text-yellow-600">✔</span> รื้อถอนสิ่งปลูกสร้าง ทุบตึก รื้อถอนอาคาร</p>
+    <p class="flex items-start gap-2"><span class="text-yellow-600">✔</span> ปรับพื้นที่ เคลียร์พื้นที่รกร้าง</p>
+    <p class="flex items-start gap-2"><span class="text-yellow-600">✔</span> รถบรรทุกขนย้ายเศษวัสดุก่อสร้าง</p>
+    <p class="flex items-start gap-2"><span class="text-yellow-600">✔</span> ประเมินหน้างานฟรี รับงานทั่วประเทศ</p>
+  </div>
+</section>
+
+<section class="container mx-auto px-4 py-16 max-w-2xl">
+  <div class="bg-white p-6 md:p-8 rounded-2xl shadow-xl border border-gray-100">
+    <h2 class="text-2xl font-bold mb-6 text-center text-slate-950">📍 ข้อมูลการติดต่อและที่อยู่ร้าน</h2>
+
+    <dl class="space-y-4 text-base md:text-lg border-b border-gray-100 pb-6">
+      <div class="flex items-start">
+        <dt class="font-semibold text-slate-900 w-24 shrink-0">ชื่อร้าน:</dt>
+        <dd class="text-gray-700">พรรษสรณ์บริการ เช่ารถขุด รถแบคโฮ</dd>
+      </div>
+      <div class="flex items-start">
+        <dt class="font-semibold text-slate-900 w-24 shrink-0">ที่อยู่:</dt>
+        <dd class="text-gray-700">59/40 แขวงบางไผ่ เขตบางแค กรุงเทพมหานคร 10160</dd>
+      </div>
+      <div class="flex items-start">
+        <dt class="font-semibold text-slate-900 w-24 shrink-0">โทรศัพท์:</dt>
+        <dd><a href="tel:0929932697" class="text-yellow-600 font-bold hover:underline">092-993-2697</a></dd>
+      </div>
+      <div class="flex items-start">
+        <dt class="font-semibold text-slate-900 w-24 shrink-0">ไลน์ไอดี:</dt>
+        <dd><a href="https://line.me/ti/p/~0929932697" target="_blank" rel="noopener" class="text-[#06C755] font-bold hover:underline">0929932697</a></dd>
+      </div>
+      <div class="flex items-start">
+        <dt class="font-semibold text-slate-900 w-24 shrink-0">เวลาทำการ:</dt>
+        <dd class="text-green-600 font-semibold flex items-center gap-1">🟢 เปิด 24 ชั่วโมง</dd>
+      </div>
+    </dl>
+
+    <!-- LINE QR Code -->
+    <div class="mt-6 flex flex-col items-center text-center">
+      <p class="font-semibold text-slate-900 mb-3">สแกนเพื่อแอดไลน์สอบถามราคา</p>
+      <img src="images/line-qr-code.jpg"
+           alt="QR Code แอดไลน์พรรษสรณ์บริการ สอบถามราคาเช่ารถแม็คโคร PC30 PC120"
+           class="w-40 h-40 rounded-xl border border-gray-200 shadow-sm"
+           loading="lazy" width="160" height="160">
+    </div>
+
+    <!-- แผนที่ -->
+    <div class="mt-6 rounded-xl overflow-hidden border border-gray-200 h-56">
+      <iframe
+        title="แผนที่พรรษสรณ์บริการ"
+        src="https://www.google.com/maps?q=บางไผ่+บางแค+กรุงเทพมหานคร&output=embed"
+        class="w-full h-full border-0"
+        loading="lazy">
+      </iframe>
+    </div>
+
+    <div class="mt-6 flex flex-col sm:flex-row gap-3">
+      <a href="tel:0929932697" class="flex-1 text-center bg-slate-900 hover:bg-slate-800 text-white px-6 py-3 rounded-xl font-bold shadow-lg transition">
+        📞 โทรเลย 092-993-2697
+      </a>
+      <a href="https://line.me/ti/p/~0929932697" target="_blank" rel="noopener" class="flex-1 text-center bg-[#06C755] hover:bg-[#05b34c] text-white px-6 py-3 rounded-xl font-bold shadow-lg transition">
+        💬 แอดไลน์สอบถามราคา
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- 5. คำถามที่พบบ่อย (FAQ) -->
+<section class="container mx-auto px-4 py-14 max-w-3xl" aria-labelledby="faq-heading">
+  <h2 id="faq-heading" class="text-2xl md:text-3xl font-bold text-center mb-8 border-b-4 border-yellow-500 pb-2 w-fit mx-auto">
+    ❓ คำถามที่พบบ่อยเกี่ยวกับการเช่ารถแม็คโคร
+  </h2>
+  <div class="space-y-5">
+    <div class="bg-white p-5 rounded-xl shadow-sm border border-gray-100">
+      <h3 class="font-bold text-base md:text-lg mb-2 text-slate-900">เช่ารถแม็คโครพรรษสรณ์บริการ ต้องใช้เวลานานแค่ไหนก่อนรถจะถึงหน้างาน?</h3>
+      <p class="text-gray-700 text-sm md:text-base leading-relaxed">โดยทั่วไปทีมงานจะลงพื้นที่ประเมินหน้างานฟรีก่อนเริ่มงานทุกครั้ง เพื่อให้แน่ใจว่าเลือกรุ่นรถแม็คโครและหัวอุปกรณ์ที่เหมาะสมกับลักษณะงาน เช่น งานเจาะปูน งานถมที่ หรืองานรื้อถอน ระยะเวลานัดหมายจะขึ้นอยู่กับพื้นที่และคิวงานในขณะนั้น แนะนำให้ติดต่อล่วงหน้าผ่านโทรศัพท์หรือไลน์เพื่อจองคิวและยืนยันราคา</p>
+    </div>
+    <div class="bg-white p-5 rounded-xl shadow-sm border border-gray-100">
+      <h3 class="font-bold text-base md:text-lg mb-2 text-slate-900">รถแม็คโคร PC30 กับ PC120 ต่างกันอย่างไร เลือกรุ่นไหนดี?</h3>
+      <p class="text-gray-700 text-sm md:text-base leading-relaxed">รถแม็คโคร PC30 เป็นรุ่นขนาดเล็ก เหมาะกับพื้นที่แคบ งานขุดร่องวางท่อ งานสวน หรืองานที่ต้องเข้าซอยแคบ ส่วน PC120 เป็นรุ่นขนาดกลาง รับน้ำหนักงานได้มากกว่า เหมาะกับงานถมที่ขนาดใหญ่ งานเจาะปูน สกัดพื้นคอนกรีต และงานรื้อถอนอาคาร หากไม่แน่ใจว่าควรเลือกรุ่นใด ทีมงานพรรษสรณ์บริการยินดีให้คำปรึกษาและประเมินหน้างานฟรีก่อนตัดสินใจ</p>
+    </div>
+    <div class="bg-white p-5 rounded-xl shadow-sm border border-gray-100">
+      <h3 class="font-bold text-base md:text-lg mb-2 text-slate-900">ค่าเช่ารถแม็คโครคิดราคาอย่างไร รวมคนขับหรือไม่?</h3>
+      <p class="text-gray-700 text-sm md:text-base leading-relaxed">อัตราค่าเช่าขึ้นอยู่กับรุ่นรถ ลักษณะหน้างาน ระยะเวลาใช้งาน และระยะทางในการขนย้ายเครื่องจักร โดยทั่วไปราคาจะรวมค่าคนขับที่มีประสบการณ์ตรง แต่ไม่รวมค่าน้ำมันเชื้อเพลิง แนะนำให้ติดต่อทีมงานเพื่อรับใบเสนอราคาที่ชัดเจนตามหน้างานจริง ไม่มีค่าใช้จ่ายแอบแฝง</p>
+    </div>
+    <div class="bg-white p-5 rounded-xl shadow-sm border border-gray-100">
+      <h3 class="font-bold text-base md:text-lg mb-2 text-slate-900">พรรษสรณ์บริการรับงานนอกพื้นที่กรุงเทพฯ หรือไม่?</h3>
+      <p class="text-gray-700 text-sm md:text-base leading-relaxed">รับงานทั่วประเทศ โดยทีมงานจะลงพื้นที่ประเมินหน้างานฟรีก่อนเสนอราคา ครอบคลุมทั้งงานในเขตกรุงเทพมหานครและต่างจังหวัด ไม่ว่าจะเป็นงานถมที่ ขุดบ่อ กดเสาเข็ม หรืองานเจาะปูนขนาดใหญ่</p>
+    </div>
+  </div>
+</section>
+
+<footer class="bg-slate-900 text-slate-400 text-sm text-center py-6">
+  &copy; 2026 พรรษสรณ์บริการ เช่ารถแม็คโครหัวตัก-หัวเจาะ — บางแค กรุงเทพฯ
+</footer>
+
+<!-- ปุ่มโทรลอยสำหรับมือถือ -->
+<a href="tel:0929932697" class="sm:hidden fixed bottom-4 right-4 z-50 bg-yellow-500 text-slate-900 font-bold px-5 py-3 rounded-full shadow-xl flex items-center gap-2">
+  📞 โทร
+</a>
+
+</body>
+</html>
